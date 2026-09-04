@@ -7,7 +7,7 @@ about:
   head: 5eedd5f
   archived: false
   latestVersion: v2.0.2
-  collectedAt: 2026-09-04T20:00:37Z
+  collectedAt: 2026-09-04T20:38:26Z
 timeline:
   created: 2017-09-25
   lastCommit: 2025-11-15
@@ -83,6 +83,69 @@ total:
   openIssue: 315
   commit: 3168
 ---
+path: /home/runner/.x-repo/github.com/volta-cli/volta
+collectedAt: 2026-09-04T20:38:28Z
+loc:
+  Rust:
+    code: 23068
+    comments: 729
+    blanks: 3345
+    files: 140
+  Sh:
+    code: 938
+    comments: 161
+    blanks: 212
+    files: 8
+  Json:
+    code: 392
+    comments: 0
+    blanks: 0
+    files: 26
+  Autoconf:
+    code: 190
+    comments: 27
+    blanks: 40
+    files: 1
+  Toml:
+    code: 178
+    comments: 12
+    blanks: 21
+    files: 11
+  RPMSpecfile:
+    code: 37
+    comments: 16
+    blanks: 19
+    files: 1
+  Bash:
+    code: 13
+    comments: 4
+    blanks: 8
+    files: 1
+  Dockerfile:
+    code: 7
+    comments: 6
+    blanks: 3
+    files: 1
+  Batch:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 339
+    blanks: 160
+    files: 5
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 24825
+  comments: 2573
+  blanks: 3954
+  files: 196
 ---
 date: "2026-08-24"
 repo:
