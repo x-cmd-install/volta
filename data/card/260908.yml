@@ -5,13 +5,13 @@ about:
   head: 5eedd5f
   archived: false
   latestVersion: "v2.0.2"
-  collectedAt: 2026-09-08T02:36:27Z
+  collectedAt: 2026-09-08T05:23:59Z
 timeline:
   created: 2017-09-25
   lastCommit: 2025-11-15
   lastRelease: 2024-12-05
 popularity:
-  star: 13055
+  star: 13054
   watcher: 55
   fork: 335
   release: 62
@@ -82,7 +82,7 @@ total:
   commit: 3168
 ---
 path: /home/runner/.x-repo/github.com/volta-cli/volta
-collectedAt: 2026-09-08T02:36:31Z
+collectedAt: 2026-09-08T05:24:02Z
 loc:
   Rust:
     code: 23068
