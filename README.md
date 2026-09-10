@@ -12,36 +12,7 @@ Volta: JS Toolchains as Code. ⚡
 x install volta
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/volta-cli/volta>
-- **Homepage**: <https://volta.sh>
-- **License**: NOASSERTION
-
-## Release
-
-- **Latest**: `v2.0.2` (2024-12-05)
-- **Last commit**: 2025-11-15
-- **Assets in release**: 8
-- **Published**: 2024-12-05T06:48:02Z
-
-## Popularity
-
-- **Stars**: 13,058 · **Forks**: 334 · **Open issues**: 970 · **Contributors**: 54
-
-## Totals (cumulative)
-
-- **Releases**: 62 · **Merged PRs**: 886 · **Open PRs**: 26 · **Closed issues**: 655 · **Open issues**: 315 · **Commits**: 3168
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 7 | 3 | 16 | 3 |
-
-## Code size
+## Code insight
 
 Total: **24,825** lines of code across **186** files in the top 5 languages.
 
@@ -63,13 +34,57 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## Source
+
+- **Upstream**: <https://github.com/volta-cli/volta>
+- **Homepage**: <https://volta.sh>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `v2.0.2` (2024-12-05)
+- **Last commit**: 2025-11-15
+- **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 13,059 · **Forks**: 333 · **Open issues**: 970 · **Contributors**: 54
+
+## Totals (cumulative)
+
+- **Releases**: 62 · **Merged PRs**: 886 · **Open PRs**: 26 · **Closed issues**: 655 · **Open issues**: 315 · **Commits**: 3168
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 2 | 0 | 5 | 0 |
+| 360d | 2025-09-15 | 0 | 1 | 7 | 3 | 16 | 3 |
+| last720d | 2024-09-20 | 1 | 68 | 21 | 20 | 61 | 138 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [volta-2.0.2-linux-arm.tar.gz](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-linux-arm.tar.gz) | 8.6 MiB | `native/linux/arm` |
+| [volta-2.0.2-linux.tar.gz](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-linux.tar.gz) | 9.3 MiB | `native/unknown` |
+| [volta-2.0.2-macos.tar.gz](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-macos.tar.gz) | 12.3 MiB | `native/darwin/x64` |
+| [volta-2.0.2-windows-arm64.msi](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-windows-arm64.msi) | 5.0 MiB | `native/win/arm64` |
+| [volta-2.0.2-windows-arm64.zip](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-windows-arm64.zip) | 5.9 MiB | `native/win/arm64` |
+| [volta-2.0.2-windows-x86_64.msi](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-windows-x86_64.msi) | 5.3 MiB | `native/win/x64` |
+| [volta-2.0.2-windows.zip](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta-2.0.2-windows.zip) | 6.2 MiB | `native/win/x64` |
+| [volta.manifest](https://github.com/volta-cli/volta/releases/download/v2.0.2/volta.manifest) | 31 B | `other` |
+
 ## Improve this data
 
 Install metadata for volta lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `volta` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/volta.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/volta.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:24:45Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:57:45Z._
