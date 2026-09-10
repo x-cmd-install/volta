@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.2"
   latestRelease: "v2.0.2"
   latestPrerelease: "v0.9.99"
-  collectedAt: 2026-09-10T05:24:37Z
+  collectedAt: 2026-09-10T17:24:11Z
 timeline:
   created: 2017-09-25
   lastCommit: 2025-11-15
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2024-12-05
   lastPrerelease: 2020-12-16
 popularity:
-  star: 13058
+  star: 13059
   watcher: 55
-  fork: 334
+  fork: 333
   release: 62
   contributor: 54
   pullRequest: 1126
@@ -86,7 +86,7 @@ total:
   commit: 3168
 ---
 path: /home/runner/.x-repo/github.com/volta-cli/volta
-collectedAt: 2026-09-10T05:24:41Z
+collectedAt: 2026-09-10T17:24:18Z
 loc:
   Rust:
     code: 23068
