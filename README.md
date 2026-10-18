@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,057 · **Forks**: 332 · **Open issues**: 973 · **Contributors**: 54
+- **Stars**: 13,058 · **Forks**: 332 · **Open issues**: 973 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-07-19 | 0 | 0 | 0 | 1 | 3 | 0 |
-| last180d | 2026-04-20 | 0 | 0 | 1 | 1 | 7 | 0 |
-| 360d | 2025-10-22 | 0 | 1 | 7 | 3 | 16 | 3 |
-| last720d | 2024-10-27 | 1 | 50 | 20 | 18 | 59 | 102 |
+| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-07-20 | 0 | 0 | 0 | 1 | 3 | 0 |
+| last180d | 2026-04-21 | 0 | 0 | 1 | 1 | 7 | 0 |
+| 360d | 2025-10-23 | 0 | 1 | 7 | 3 | 16 | 3 |
+| last720d | 2024-10-28 | 1 | 50 | 20 | 18 | 58 | 102 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for volta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:52:43Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:05:43Z._
