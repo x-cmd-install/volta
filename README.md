@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 1 | 3 | 0 |
-| last180d | 2026-05-03 | 0 | 0 | 1 | 1 | 7 | 0 |
-| 360d | 2025-11-04 | 0 | 1 | 5 | 2 | 16 | 3 |
-| last720d | 2024-11-09 | 1 | 42 | 19 | 17 | 56 | 86 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 0 | 1 | 3 | 0 |
+| last180d | 2026-05-04 | 0 | 0 | 1 | 1 | 7 | 0 |
+| 360d | 2025-11-05 | 0 | 1 | 5 | 2 | 16 | 3 |
+| last720d | 2024-11-10 | 1 | 42 | 19 | 17 | 56 | 86 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for volta lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:27:16Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:08:40Z._
